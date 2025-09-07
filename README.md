@@ -25,12 +25,14 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="60" alt="csharp logo"  />
 </div>
-
-
-
-<img align="right" height="190" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyZGtodmRhd2d5bTBkYTVoZWg2ZnNiNmdqemVqemoxeHZuMGJvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
-
 ###
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/ardatinmaz" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
+  </a>
+</div>
+
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=ArdaTinmaz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
