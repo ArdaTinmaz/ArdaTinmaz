@@ -47,13 +47,23 @@
 <h1 align="left"></h1>
 
 ###
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://streak-stats.demolab.com?user=ArdaTinmaz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+    </td>
+    <td style="width: 600px;"></td>
+    <td>
+      <img align="right" height="300" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyZGtodmRhd2d5bTBkYTVoZWg2ZnNiNmdqemVqemoxeHZuMGJvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+    </td>
+  </tr>
+</table>
 
-<img align="right" height="200" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaWNyZGtodmRhd2d5bTBkYTVoZWg2ZnNiNmdqemVqemoxeHZuMGJvdyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif"  />
+
 
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ArdaTinmaz&locale=en&mode=daily&theme=radical&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-profile-trophy.vercel.app?username=ArdaTinmaz&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
 </div>
 
